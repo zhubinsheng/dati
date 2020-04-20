@@ -1,0 +1,124 @@
+.my_index_bg{
+	background-image: url('../images/index_background.jpg');
+}
+
+.my_word {
+	vertical-align: middle!important;
+	height:auto;
+	width:48px!important;
+	background:url(../images/word.png) no-repeat;
+}
+.my_bgLogo {
+	vertical-align: middle!important;
+	height:auto;
+	width:430px!important;
+	background:url(../images/bgLogo.png)  no-repeat;
+}
+.my_tip {
+	vertical-align: middle!important;
+	height:16px!important;
+	width:16px!important;
+	background:url(../images/tip.png)  no-repeat;
+}
+.my_logo {
+	vertical-align: middle!important;
+	height:97px!important;
+	width:403px!important;
+	background:url(../images/logo.png)  no-repeat;
+}
+.my_home {
+	vertical-align: middle!important;
+	height:16px!important;
+	width:16px!important;
+	background:url(../images/home.png)  no-repeat;
+}
+.my_301 {
+	vertical-align: middle!important;
+	height:16px!important;
+	width:16px!important;
+	background:url(../images/img.png)  no-repeat;
+	background-position:0 0!important;
+}
+.my_202 {
+	vertical-align: middle!important;
+	height:16px!important;
+	width:16px!important;
+	background:url(../images/img.png)  no-repeat;
+	background-position:-16px 0!important;
+}
+.my_302 {
+	vertical-align: middle!important;
+	height:16px!important;
+	width:16px!important;
+	background:url(../images/img.png)  no-repeat;
+	background-position:-32px 0!important;
+}
+.my_304 {
+	vertical-align: middle!important;
+	height:16px!important;
+	width:16px!important;
+	background:url(../images/img.png)  no-repeat;
+	background-position:-48px 0!important;
+}
+.my_303 {
+	vertical-align: middle!important;
+	height:16px!important;
+	width:16px!important;
+	background:url(../images/img.png)  no-repeat;
+	background-position:-64px 0!important;
+}
+.my_305 {
+	vertical-align: middle!important;
+	height:16px!important;
+	width:16px!important;
+	background:url(../images/img.png)  no-repeat;
+	background-position:-80px 0!important;
+}
+.my_002 {
+	vertical-align: middle!important;
+	height:16px!important;
+	width:16px!important;
+	background:url(../images/img.png)  no-repeat;
+	background-position:-96px 0!important;
+}
+.my_001 {
+	vertical-align: middle!important;
+	height:16px!important;
+	width:16px!important;
+	background:url(../images/img.png)  no-repeat;
+	background-position:-112px 0!important;
+}
+.my_003 {
+	vertical-align: middle!important;
+	height:16px!important;
+	width:16px!important;
+	background:url(../images/img.png)  no-repeat;
+	background-position:-128px 0!important;
+}
+.my_103 {
+	vertical-align: middle!important;
+	height:16px!important;
+	width:16px!important;
+	background:url(../images/my_103.png)  no-repeat;
+}
+.my_102 {
+	vertical-align: middle!important;
+	height:16px!important;
+	width:16px!important;
+	background:url(../images/img.png)  no-repeat;
+	background-position:-144px 0!important;
+}
+.my_101 {
+	vertical-align: middle!important;
+	height:16px!important;
+	width:16px!important;
+	background:url(../images/img.png)  no-repeat;
+	background-position:-160px 0!important;
+}
+.my_201 {
+	vertical-align: middle!important;
+	height:16px!important;
+	width:16px!important;
+	background:url(../images/img.png)  no-repeat;
+	background-position:-176px 0!important;
+}

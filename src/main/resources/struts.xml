@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE struts PUBLIC
+    "-//Apache Software Foundation//DTD Struts Configuration 2.3//EN"
+    "http://struts.apache.org/dtds/struts-2.3.dtd">
+
+<struts>
+
+	<constant name="struts.i18n.encoding" value="utf-8"></constant>
+	<constant name="struts.objectFactory" value="spring" />
+	<constant name="struts.objectFactory.spring.autoWire" value="name" />
+	<!-- 是否开启动态方法调用 -->
+	<constant name="struts.enable.DynamicMethodInvocation" value="true" />
+	<constant name="struts.objectFactory.spring.autoWire.alwaysRespect"
+		value="true" />
+	<!-- 设置浏览器是否缓存静态内容。默认值为true(生产环境下使用),开发阶段最好关闭 -->
+	<constant name="struts.serve.static.browserCache" value="false" />
+
+	<!-- 该属性指定视图标签默认的视图主题，该属性的默认值是xhtml。 -->
+	<constant name="struts.ui.theme" value="simple"></constant>
+	<!-- 上传文件是所允许的文件最大值 -->
+	<constant name="struts.multipart.maxSize" value="10485760"></constant>
+	<!-- 设置文件上传时的临时文件夹时F盘下的temp文件夹 -->
+
+</struts>
